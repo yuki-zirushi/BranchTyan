@@ -1,3 +1,3 @@
 #ブランチ練習リポジトリ
 
-branch1 commit
+branch1 commit2
